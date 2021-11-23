@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+html {
+    background-color: orange;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+p {
+    align-content: center;
+    background-color: yellow;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
